@@ -1,0 +1,17 @@
+BC Hiep Binh Chanh,BC Nguyen Gia Tri,5
+BC Hiep Binh Chanh,BC Cay Tram,11
+BC Hiep Binh Chanh,BC Nguyen Kiem,8
+BC Nguyen Gia Tri,BC Nguyen Kiem,5
+BC Nguyen Gia Tri,BC Cha Va,10
+BC Nguyen Gia Tri,BC Tan Hung,9
+BC Nguyen Kiem,BC Cay Tram,8
+BC Nguyen Kiem,BC Le Van Huan,5
+BC Nguyen Kiem,BC Cha Va,8
+BC Cay Tram,BC Tay Thanh,5
+BC Cay Tram,BC Le Van Huan,6
+BC Le Van Huan,BC Tay Thanh,3
+BC Le Van Huan,BC An Lac A,8
+BC Le Van Huan,BC Cha Va,7
+BC Tay Thanh,BC An Lac A,9
+BC An Lac A,BC Cha Va,6
+BC Cha Va,BC Tan Hung,6
