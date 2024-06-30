@@ -16,7 +16,7 @@ This class defines an Edge object used to represent connections between vertices
 This class provides a graphical user interface (GUI) for visualizing the shortest path computations using Dijkstra's algorithm. It includes:
 
 A GraphPanel class for drawing the graph and displaying the vertices and edges.
-Methods to read graph data from CSV files (names.csv and pair.csv) and construct the graph using Dijkstra class.
+Methods to read graph data from CSV files (names.csv and pair.csv) and construct the graph using the Dijkstra class.
 GUI controls to select start and end vertices, compute the shortest path, and display the result on the graph.
 
 How to Run
@@ -26,3 +26,9 @@ To run the project:
 - Select a start and end vertex from the dropdown menus.
 - Click "Draw Dijkstra's Path" to compute and display the shortest path between the selected vertices on the graph.
 - Use the "Reset" button to reload the graph and reset the visualization.
+
+## Demo Video
+
+
+https://github.com/diemmylelelele/Dijkstra-s-Algorithm/assets/119517712/2230c534-2fb5-4921-a8dd-aebe67205f48
+
