@@ -1,4 +1,4 @@
-# Shortest Path Visualization Project
+# Shortest Path - Dijkstra algorithm
 
 This project implements Dijkstra's algorithm for finding the shortest path between vertices in a graph. It consists of three main Java classes:
 
